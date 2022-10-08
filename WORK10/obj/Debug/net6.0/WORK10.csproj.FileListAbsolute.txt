@@ -1,0 +1,16 @@
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM2\WORK10\bin\Debug\net6.0\WORK10.exe
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM2\WORK10\bin\Debug\net6.0\WORK10.deps.json
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM2\WORK10\bin\Debug\net6.0\WORK10.runtimeconfig.json
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM2\WORK10\bin\Debug\net6.0\WORK10.dll
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM2\WORK10\bin\Debug\net6.0\ref\WORK10.dll
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM2\WORK10\bin\Debug\net6.0\WORK10.pdb
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM2\WORK10\obj\Debug\net6.0\WORK10.GlobalUsings.g.cs
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM2\WORK10\obj\Debug\net6.0\WORK10.csproj.AssemblyReference.cache
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM2\WORK10\obj\Debug\net6.0\WORK10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM2\WORK10\obj\Debug\net6.0\WORK10.AssemblyInfoInputs.cache
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM2\WORK10\obj\Debug\net6.0\WORK10.AssemblyInfo.cs
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM2\WORK10\obj\Debug\net6.0\WORK10.csproj.CoreCompileInputs.cache
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM2\WORK10\obj\Debug\net6.0\WORK10.dll
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM2\WORK10\obj\Debug\net6.0\ref\WORK10.dll
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM2\WORK10\obj\Debug\net6.0\WORK10.pdb
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM2\WORK10\obj\Debug\net6.0\WORK10.genruntimeconfig.cache
